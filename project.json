@@ -1,0 +1,8 @@
+{
+  "name": "blobstore_webutil",
+  "description": "A hosted web app which allows you to store blobs.",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::274758534876:role/blobstore_webutil_lambda_function",
+  "environment": {}
+}
