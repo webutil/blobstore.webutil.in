@@ -22,3 +22,4 @@ Show how users can send a compressed file in the input which reduces the file si
 
  1. Increased file size limit
  2. Creation of namespaces?
+ 3. Basic Auth for GET?
